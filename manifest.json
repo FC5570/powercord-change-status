@@ -1,0 +1,11 @@
+{
+    "name": "Change Status",
+    "version": "1.0.0",
+    "description": "Change your status by typing a command.",
+    "author": "FC#5104",
+    "license": "MIT",
+    "repo": "https://github.com/FC5570/powercord-change-status",
+    "dependencies": [
+        "pc-commands"
+    ]
+}
